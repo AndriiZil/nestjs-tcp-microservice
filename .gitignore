@@ -1,0 +1,9 @@
+# WebStorm
+.idea
+*/.idea
+# Modules
+node_modules
+*/node_modules
+# Source compiled code
+dist
+*/dist
